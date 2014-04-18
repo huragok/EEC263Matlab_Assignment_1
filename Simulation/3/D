@@ -1,0 +1,15 @@
+_________________________________
+M = 2
+MSE(theoretical) = 0.28741
+MSE(actual, exact correlation) = 0.33904
+MSE(actual, esimated correlation) = 0.33654
+_________________________________
+M = 4
+MSE(theoretical) = 0.017963
+MSE(actual, exact correlation) = 0.024541
+MSE(actual, esimated correlation) = 0.02542
+_________________________________
+M = 6
+MSE(theoretical) = 0.0011227
+MSE(actual, exact correlation) = 0.0048859
+MSE(actual, esimated correlation) = 0.0061211
